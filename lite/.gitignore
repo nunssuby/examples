@@ -4,7 +4,6 @@
 # Swift
 
 ## Build generated
-build/
 DerivedData/
 
 ## Various settings
@@ -59,7 +58,7 @@ out/
 
 # Gradle files
 .gradle/
-build/
+
 
 # Local configuration file (sdk path, etc)
 local.properties
